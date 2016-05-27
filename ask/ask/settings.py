@@ -56,7 +56,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'django',
-        'USER': 'root',
+        'USER': 'box',
+        'PASSWORD': '123qwe',
         'HOST': '127.0.0.1',
     }
 }
